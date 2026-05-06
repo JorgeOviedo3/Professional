@@ -1,0 +1,81 @@
+TBC_HERBALISM_RECIPES = {
+
+[2366] = {
+    spellID      = 2366,
+    name         = "Herb Gathering",
+    requiredSkill = 9999,
+    resultItemID = nil,
+    recipeItemID = nil,
+    materials    = nil,
+    resultIconID = nil,
+    recipeIconID = nil,
+    source       = "trainer",
+    sourceDetail = {"Alma Jainrose", "Angrun", "Aranae Venomblood", "Botanist Nathera", "Botanist Tyniarrel", "Brant Jasperbloom", "Cemmorhan", "Cylania Rootstalker", "Faruza", "Firodren Mooncaller", "Flora Silverwind", "Herbalist Pomeroy", "Heur", "Jandi", "Kali Healtouch", "Komin Winterhoof", "Malorne Bladeleaf", "Malvor", "Martha Alliestar", "Mishiki", "Morae", "Reyna Stonebranch", "Rorelien", "Ruak Stronghorn", "Ruw", "Shylamiir", "Tannysa", "Telurinon Moonshadow"},
+},
+
+[2368] = {
+    spellID      = 2368,
+    name         = "Herb Gathering",
+    requiredSkill = 50,
+    resultItemID = nil,
+    recipeItemID = nil,
+    materials    = nil,
+    resultIconID = nil,
+    recipeIconID = nil,
+    source       = "trainer",
+    sourceDetail = {"Alma Jainrose", "Angrun", "Aranae Venomblood", "Botanist Nathera", "Botanist Tyniarrel", "Brant Jasperbloom", "Cemmorhan", "Cylania Rootstalker", "Faruza", "Firodren Mooncaller", "Flora Silverwind", "Herbalist Pomeroy", "Heur", "Jandi", "Kali Healtouch", "Komin Winterhoof", "Malorne Bladeleaf", "Malvor", "Martha Alliestar", "Mishiki", "Morae", "Reyna Stonebranch", "Rorelien", "Ruak Stronghorn", "Ruw", "Shylamiir", "Tannysa", "Telurinon Moonshadow"},
+},
+
+[2383] = {
+    spellID      = 2383,
+    name         = "Find Herbs",
+    requiredSkill = 9999,
+    resultItemID = nil,
+    recipeItemID = nil,
+    materials    = nil,
+    resultIconID = nil,
+    recipeIconID = nil,
+    source       = nil,
+    sourceDetail = nil,
+},
+
+[3570] = {
+    spellID      = 3570,
+    name         = "Herb Gathering",
+    requiredSkill = 125,
+    resultItemID = nil,
+    recipeItemID = nil,
+    materials    = nil,
+    resultIconID = nil,
+    recipeIconID = nil,
+    source       = "trainer",
+    sourceDetail = {"Alma Jainrose", "Angrun", "Aranae Venomblood", "Botanist Nathera", "Botanist Tyniarrel", "Brant Jasperbloom", "Cemmorhan", "Cylania Rootstalker", "Faruza", "Firodren Mooncaller", "Flora Silverwind", "Herbalist Pomeroy", "Heur", "Jandi", "Kali Healtouch", "Komin Winterhoof", "Malorne Bladeleaf", "Malvor", "Martha Alliestar", "Mishiki", "Morae", "Reyna Stonebranch", "Rorelien", "Ruak Stronghorn", "Ruw", "Shylamiir", "Tannysa", "Telurinon Moonshadow"},
+},
+
+[11993] = {
+    spellID      = 11993,
+    name         = "Herb Gathering",
+    requiredSkill = 200,
+    resultItemID = nil,
+    recipeItemID = nil,
+    materials    = nil,
+    resultIconID = nil,
+    recipeIconID = nil,
+    source       = "trainer",
+    sourceDetail = {"Alma Jainrose", "Angrun", "Aranae Venomblood", "Botanist Nathera", "Botanist Tyniarrel", "Brant Jasperbloom", "Cemmorhan", "Cylania Rootstalker", "Faruza", "Firodren Mooncaller", "Flora Silverwind", "Herbalist Pomeroy", "Heur", "Jandi", "Kali Healtouch", "Komin Winterhoof", "Malorne Bladeleaf", "Malvor", "Martha Alliestar", "Mishiki", "Morae", "Reyna Stonebranch", "Rorelien", "Ruak Stronghorn", "Ruw", "Shylamiir", "Tannysa", "Telurinon Moonshadow"},
+},
+
+[28695] = {
+    spellID      = 28695,
+    name         = "Herb Gathering",
+    requiredSkill = 275,
+    resultItemID = nil,
+    recipeItemID = nil,
+    materials    = nil,
+    resultIconID = nil,
+    recipeIconID = nil,
+    source       = "trainer",
+    sourceDetail = {"Rorelien", "Ruak Stronghorn"},
+},
+
+}

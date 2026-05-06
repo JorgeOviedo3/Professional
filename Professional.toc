@@ -1,0 +1,18 @@
+## Interface: 20505
+## Title: |cffffd700Professional|r
+## Notes: Recipe profit calculator. Query Auctionator for prices, compare material cost vs sale price across all your professions.
+## Author: Gnizah
+## Version: 1.0.2
+## Dependencies: Auctionator
+## SavedVariables: ProfessionalDB
+## IconTexture: Interface\AddOns\Professional\logo.tga
+
+Data_TBC/data_tbc_alchemy.lua
+Data_TBC/data_tbc_blacksmithing.lua
+Data_TBC/data_tbc_enchanting.lua
+Data_TBC/data_tbc_engineering.lua
+Data_TBC/data_tbc_jewelcrafting.lua
+Data_TBC/data_tbc_leatherworking.lua
+Data_TBC/data_tbc_mining.lua
+Data_TBC/data_tbc_tailoring.lua
+Professional.lua
